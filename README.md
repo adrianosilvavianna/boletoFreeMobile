@@ -36,3 +36,7 @@ Manual basico
 
 Criar : ng g m nomeModel
 
+#Componente
+
+Criar ng g c nomeComponent
+
